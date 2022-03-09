@@ -1,0 +1,31 @@
+<data>
+    <estudiante-1>
+	 
+	<codigo>"2018114052"</codigo>
+	<nombre>"Yulissa"</nombre>
+	<apellido>"Pajaro"</apellido>
+	<carrera>"Ingenieria de sistemas"</carrera>
+	<identificacion>"12333 "</identificacion>
+
+    </estudiante-1>
+
+	<estudiante-2>
+	<codigo>12018114044</codigo>
+	<nombre>"Ruben"</nombre>
+	<apellido>"Medina"</apellido>
+	<carrera>"Biologia"</carrera>
+	<identificacion>"55443"</identificacion>
+
+    </estudiante-2>
+
+    <estudiante-3>
+	
+	<codigo>1020153238</codigo>
+	<nombre>"Ana"</nombre>
+	<apellido>"Duran"</apellido>
+	<carrera>"Arquitectura"</carrera>
+	<identificacion>"23411"</identificacion>
+
+    </estudiante-3>
+ 
+</data>
